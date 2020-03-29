@@ -1,0 +1,13 @@
+<xml>
+    <configparameters>
+
+        <requestparameters>
+            <url>"https://coronavirus-monitor.p.rapidapi.com/coronavirus/</url>
+            <specificEnpoint>latest_stat_by_country.php</specificEnpoint>
+            <isRequiredQuery>Y</isRequiredQuery>
+            <requiredParameter>country=italy</requiredParameter>
+        </requestparameters>
+    </configparameters>
+
+
+</xml>
